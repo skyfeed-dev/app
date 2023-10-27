@@ -1,0 +1,22 @@
+{
+    "name": "SkyFeed",
+    "short_name": "SkyFeed",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#282a36",
+    "theme_color": "#50FA7B",
+    "description": "Real-time app for Bluesky with a powerful Feed Builder",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
